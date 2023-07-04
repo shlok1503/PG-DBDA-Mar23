@@ -3,7 +3,7 @@
 
     ## Day 1: Introduction to Machine Learning
     ## Day 2: Machine Learning Modelling
-    ## Day 3:
+    ## Day 3: Data Modelling
     ## Day 4:
     ## Day 5:
     ## Day 6:
