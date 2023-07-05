@@ -13,6 +13,9 @@ Date: 5/07/2023
 	-Measures
 	-Visualization
 
+# Additional Reading : Data Preparation
+	https://github.com/Kiranwaghmare123/PG-DBDA-Mar23/blob/main/Day_3/Data_Preprocessing.pdf
+
 # Homework:
 -------------
 
