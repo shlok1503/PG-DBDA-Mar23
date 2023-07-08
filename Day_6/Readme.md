@@ -3,12 +3,12 @@
 ![image](https://github.com/Kiranwaghmare123/PG-DBDA-Mar23/assets/72081819/1d6b7e9f-36db-48a3-ae38-e5f0bdc9c648)
 
 
-# Additional Reading : Regression 
-    Reference : 
+# Additional Reading: Regression 
+    Reference : https://github.com/Kiranwaghmare123/PG-DBDA-Mar23/blob/main/Day_6/linear_regression_notes.pdf
 
 
 # Homework: 
-## Problem statement : Pumpkin Pricing
+## Problem statement: Pumpkin Pricing
     Load up required libraries and datasets. Convert the data to a data frame containing a subset of the data:
     
     1. Only get pumpkins priced by the bushel
