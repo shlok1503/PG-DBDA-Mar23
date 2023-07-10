@@ -21,3 +21,6 @@
 	-perform feature weight updates as a loss function has an additional square term
 	containing the L1 norm of the weights vector
 
+# Bias vs Variance
+![image](https://github.com/Kiranwaghmare123/PG-DBDA-Mar23/assets/72081819/204bb437-3d28-409f-b49d-bd12e805393d)
+
