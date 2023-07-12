@@ -61,15 +61,29 @@ Passcode: 392492
   		-they have freedom to choose any functional form from the training dataset.
   		
 		
+# Homework:
+------------
+## Problem Statement: 
+
+	Design the Logistic and KNN classification model to predict the play for the day.
+ 
+![image](https://github.com/Kiranwaghmare123/PG-DBDA-Mar23/assets/72081819/00b54d16-3c84-41b4-9734-dde4a4c9d92f)
+
+	Test cases :
+ 
+ 	1. Rainy - Mild - Normal -False -?
+  	2. Sunny - Cool - High - True -?
+   	3. Overcast - Cool - Normal -True - ?
+
 # Interview Questions:
 ----------------------
-      1. What is K NEarest Neighbour Algorithms?
+      1. What are K Nearest Neighbour Algorithms?
       2. How does the KNN Algorithm work?
-      3. Why KNN is a non-Parametric Algorithm ?
-      4. Does the need for feature Scaling exit in KNN ?
-      5. Can the KNN algorith be used for REgression problems ?
-      6. Why is the KNN Algorithm considered as a "Lazy Learner" ?
-      7. How the categorica variables be handled in the KNN algorithm ?
-      8. How can the Bias-Variance Tradeoff be related to the KNN Algorithm ?
-      9. What is the role of k value in the KNN algorithm ?
-      10. How to choose the optimal value of k in the KNN ?
+      3. Why is KNN a non-Parametric Algorithm?
+      4. Does the need for a feature Scaling exit in KNN?
+      5. Can the KNN algorithm be used for REgression problems?
+      6. Why is the KNN Algorithm considered a "Lazy Learner"?
+      7. How the categorical variables be handled in the KNN algorithm?
+      8. How can the Bias-Variance Tradeoff be related to the KNN Algorithm?
+      9. What is the role of the k value in the KNN algorithm?
+      10. How to choose the optimal value of k in the KNN?
