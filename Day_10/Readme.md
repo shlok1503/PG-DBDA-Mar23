@@ -29,8 +29,15 @@ P(AnB) : Probability of A and b intersection
 
 P(B) : Probability of B
 
+# Bayes Theorem
+----------------
+![image](https://github.com/Kiranwaghmare123/PG-DBDA-Mar23/assets/72081819/35cbface-ec50-4acc-aefb-fcb77989dcb3)
 
-#Interview Questions
+![image](https://github.com/Kiranwaghmare123/PG-DBDA-Mar23/assets/72081819/f49aea08-1248-4309-8f3a-30587005621a)
+
+![image](https://github.com/Kiranwaghmare123/PG-DBDA-Mar23/assets/72081819/68efeb71-c6e7-4266-8139-dc5645b5e586)
+
+# Interview Questions
 -----------------------
 
 1. What is Naive Bayes?
