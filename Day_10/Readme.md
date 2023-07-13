@@ -37,6 +37,10 @@ P(B) : Probability of B
 
 ![image](https://github.com/Kiranwaghmare123/PG-DBDA-Mar23/assets/72081819/68efeb71-c6e7-4266-8139-dc5645b5e586)
 
+# Homework:
+------------
+Implement kNN and Naive Bayes algorithm for the Iris dataset.
+
 # Interview Questions
 -----------------------
 
