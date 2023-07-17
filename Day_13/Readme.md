@@ -1,4 +1,4 @@
-Day 13: Clustering Algorithm
+Day 13: SVM Algorithm
 ================================================
 Date: 17/07/2023
 Topics:
@@ -6,12 +6,7 @@ Topics:
 	-SVM Algorithm
 		-Linear
 		-Kernel
-	Clustering Algorithm
-	-Hierarchical Algorithm
-		--Agglomerative
-		--Divisive
-	-Partitioning Algorithm
-		--K-means :segmentation, Vectorization
+	
 
 
 # Support Vector Machine: SVM
