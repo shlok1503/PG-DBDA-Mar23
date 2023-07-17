@@ -12,12 +12,12 @@
     ## Day 9: k-NN Algorithm
     ## Day 10: Bays classification
     ## Day 11: Decision Tree Algorithms
-    ## Day 12: 
-    ## Day 13:
-    ## Day 14: 
-    ## Day 15:
-    ## Day 16:
-    ## Day 17:
+    ## Day 12: Random Forest
+    ## Day 13: SVM Algorithm
+    ## Day 14: Clustering
+    ## Day 15: NLP
+    ## Day 16: ANN
+    ## Day 17: Time series
     
     
     
