@@ -54,7 +54,14 @@ Topics:
 
     Recall can be defined as the percentage of correctly predicted positive outcomes out of all the actual positive outcomes. It can be given as the ratio of true positives (TP) to the sum of true positives and false negatives (TP + FN). Recall is also called Sensitivity.
 
+# ROC Curve
+	Another tool to measure the classification model performance visually is ROC Curve. ROC Curve stands for Receiver Operating Characteristic Curve. An ROC Curve is a plot which shows the performance of a classification model at various classification threshold levels.
 
+	The ROC Curve plots the True Positive Rate (TPR) against the False Positive Rate (FPR) at various threshold levels.
+
+	True Positive Rate (TPR) is also called Recall. It is defined as the ratio of TP to (TP + FN).
+
+	False Positive Rate (FPR) is defined as the ratio of FP to (FP + TN).
 	
 # Homework:
 ------------
