@@ -67,4 +67,5 @@ Topics:
 ------------
 ## Problem statement:
 
-    US department of education data on 7,535 colleges. Only a sample of the total number of columns available were used in this dataset. Visit the website for more info. Data was pulled in January, 2017.
+    US department of education data on 7,535 colleges. Only a sample of the total number of columns available were used in this dataset. 
+    Build the SVM model for the dataset D13data2.csv
